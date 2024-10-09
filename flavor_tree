@@ -1,0 +1,100 @@
+// Flavor Tree
+digraph {
+	F [label=Flavors]
+	F1 [label=Fruity]
+	F2 [label=Nutty]
+	F3 [label=Dessert]
+	F4 [label=Beverages]
+	F5 [label=Spicy]
+	F6 [label=None]
+	F -> F1
+	F -> F2
+	F -> F3
+	F -> F4
+	F -> F5
+	F -> F6
+	F11 [label="Tropical Fruits"]
+	F12 [label="Citrus Fruits"]
+	F13 [label=Berries]
+	F14 [label="Stone Fruits"]
+	F1 -> F11
+	F1 -> F12
+	F1 -> F13
+	F1 -> F14
+	F111 [label=Banana]
+	F112 [label=Mango]
+	F113 [label=Pineapple]
+	F114 [label=Coconut]
+	F115 [label="Tropical Punch"]
+	F11 -> F111
+	F11 -> F112
+	F11 -> F113
+	F11 -> F114
+	F11 -> F115
+	F121 [label=Lemon]
+	F122 [label=Orange]
+	F12 -> F121
+	F12 -> F122
+	F131 [label=Strawberry]
+	F132 [label=Blueberry]
+	F133 [label=Raspberry]
+	F134 [label="Berry Mix"]
+	F135 [label=Grape]
+	F13 -> F131
+	F13 -> F132
+	F13 -> F133
+	F13 -> F134
+	F13 -> F135
+	F141 [label=Peach]
+	F142 [label=Watermelon]
+	F143 [label=Apple]
+	F14 -> F141
+	F14 -> F142
+	F14 -> F143
+	F21 [label="Peanut Butter"]
+	F22 [label=Hazelnut]
+	F23 [label=Pistachio]
+	F2 -> F21
+	F2 -> F22
+	F2 -> F23
+	F31 [label="Chocolate-based"]
+	F32 [label="Vanilla-based"]
+	F33 [label="Caramel-based"]
+	F34 [label="Other Desserts"]
+	F3 -> F31
+	F3 -> F32
+	F3 -> F33
+	F3 -> F34
+	F311 [label=Chocolate]
+	F312 [label="Cookies & Cream"]
+	F313 [label="Choco-Mint"]
+	F314 [label="Coconut-Chocolate"]
+	F31 -> F311
+	F31 -> F312
+	F31 -> F313
+	F31 -> F314
+	F321 [label=Vanilla]
+	F322 [label="Vanilla-Caramel"]
+	F32 -> F321
+	F32 -> F322
+	F331 [label=Caramel]
+	F332 [label="Vanilla-Caramel"]
+	F33 -> F331
+	F33 -> F332
+	F341 [label=Gingerbread]
+	F34 -> F341
+	F41 [label="Coffee-based"]
+	F42 [label="Tea-based"]
+	F4 -> F41
+	F4 -> F42
+	F411 [label=Coffee]
+	F41 -> F411
+	F421 [label=Matcha]
+	F42 -> F421
+	F51 [label=Cinnamon]
+	F52 [label=Mint]
+	F53 [label="Choco-Mint"]
+	F5 -> F51
+	F5 -> F52
+	F5 -> F53
+}

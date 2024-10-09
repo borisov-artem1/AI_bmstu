@@ -1,0 +1,89 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.pyenv/
+.venv.bak/
+
+# VSCode project files
+.vscode/
+
+# PyCharm project files
+.idea/
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+coverage/
+*.log
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+*.ipynb
+
+# Pytest cache
+.pytest_cache/
+
+# Local development environment
+*.local
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# MacOS files
+.DS_Store
