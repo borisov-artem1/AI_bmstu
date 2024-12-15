@@ -157,4 +157,4 @@ if __name__ == '__main__':
 
     # Финализация и рендер дерева
     flavor_tree.render('flavor_tree', format='png')  # Сохраняем дерево в файл
-    Image(filename='flavor_tree.png')  # Отображаем изображение
+    Image(filename='data/flavor_tree.png')  # Отображаем изображение

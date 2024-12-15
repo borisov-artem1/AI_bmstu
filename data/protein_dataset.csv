@@ -1,0 +1,25 @@
+brand,country,type,is_vegan,price_rub,weight_g,flavor,intensity
+Sunwarrior,France,Protein,False,3681,1993,Mango,extremely high
+ANIMAL,USA,Whey,True,1200,1761,Watermelon,extremely low
+Allmax,Germany,Protein,False,5100,1620,Pineapple,extremely low
+BSN,USA,Protein,False,2500,1050,Tropical Punch,high
+Ultimate Nutrition,United Kingdom,Mass protein,True,4354,1958,Peanut Butter,extremely low
+GLS,Russia,Mass protein,True,1000,813,Lemon,extremely high
+EVLution Nutrition,USA,Gainer,False,7000,610,Banana,extremely high
+MuscleMeds,Italy,Casein,False,2489,1023,Chocolate,extremely low
+MuscleTech,Hawaii,Gainer,True,3789,1634,Pistachio,medium
+Big SNT,Italy,Whey,True,4332,784,Pineapple,medium
+Metabolic Nutrition,Poland,Mass protein,False,1321,962,Peach,extremely low
+Garden of Life,United Kingdom,Isolate,True,1493,1503,Peanut Butter,low
+Primekraft,Germany,Whey,True,5789,1044,Peach,extremely low
+ASP Nutrition,Spanish,Isolate,False,8030,644,nan,extremely low
+Insane Labz,USA,Mass protein,True,4389,1521,Lemon,low
+Optimum Nutrition,Russia,Gainer,True,1782,1362,Chocolate,extremely low
+Maxler,Germany,Isolate,False,2104,907,Peach,extremely high
+Bucked UP,Spanish,Mass protein,False,2363,1686,Vanilla,medium
+Olimp Sport Nutrition,Hawaii,Protein,False,4289,654,Caramel,extremely high
+Bombbar,United Kingdom,Casein,True,5452,801,Mango,high
+USN Nutrition,Russia,Isolate,True,7000,1797,Lemon,extremely high
+Gaspari,Italy,Casein,False,1900,1406,Watermelon,extremely low
+Geneticlab Nutrition,Germany,Protein,True,2606,1351,Coconut,low
+California Gold Nutrition,USA,Casein,True,1100,522,Lemon,extremely high

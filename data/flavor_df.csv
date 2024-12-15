@@ -1,0 +1,8 @@
+category,apple,banana,bitter-sweet,caramel,caramelized,chocolate,citrusy,coconut,cookies & cream,creamy,crisp,exotic,floral,fruity,hazelnut,lemon,mango,mild,nan,neutral,nutty,orange,peach,peanut butter,pineapple,pistachio,rich,slightly sweet,soft,sour,sweet,tangy,tropical,tropical punch,undefined,vanilla,watermelon,bitter-sweet,caramelized,chocolatey,citrusy,creamy,crisp,exotic,floral,fruity,juicy,mild,neutral,nutty,refreshing,rich,slightly sweet,soft,sour,summery,sweet,tangy,tropical,undefined,uplifting,dessert
+chocolate-based,0,0,1,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,1
+citrus fruits,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0
+dessert,0,0,1,1,1,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+nutty,0,0,1,1,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0,0,0,1
+stone fruits,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0
+tropical fruits,1,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0,1,0,0,1,1,1,0,0,0
